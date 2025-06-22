@@ -1,5 +1,3 @@
----
-
 > ### cstructer
 > Proof of concept using LuaJIT Foreign Function Interface (FFI) library to both define and generate C-style tables at run time.
 > This approach only supports byte aligned structures (packed) to avoid any alignment assumptions made by the compiler.
