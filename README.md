@@ -1,6 +1,3 @@
-# Self Study
-Small collection of lua snippets ...
-
 ---
 
 > ### cstructer
