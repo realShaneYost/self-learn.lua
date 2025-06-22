@@ -9,4 +9,4 @@
 
 > ### readonly-tables
 > This approach uses `__metatable = false` to create a near read-only table in Lua. While not foolproof (due to the `debug` library), it clearly communicates that the table’s behavior shouldn't be modified.
-> It’s a form of *Defense in Depth*—protecting against accidental misuse, not just malicious intent—and serves as a practical, intentional safeguard during development.
+> It’s a form of Defense in Depth by protecting against accidental misuse (not just malicious intent) and serves as a practical, intentional safeguard during development.
