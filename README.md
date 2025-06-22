@@ -6,5 +6,5 @@ your config files to create and manipulate structured data for initializing C
 applications and libraries.
 
 <p align="center">
-  <img src=".media/output.gif" width="640"/>
+  <img src="c-structer/.media/output.gif" width="640"/>
 </p>
